@@ -8,6 +8,38 @@ import cv2, pandas
 def gaus(x,a,x0,sigma):
     return a*np.exp(-(x-x0)**2/(2*sigma**2))
 
+def diagonalCut(fringeFile, pixelWidth):
+
+
+    j= pixelWidth
+    newMatrix = np.zeros((pixelWidth, fringeFile.shape[1] - pixelWidth, 3) )
+
+    matrixIndex = 0
+    i = 0
+    count = 0
+    x=0
+
+    while j < (fringeFile.shape[1] - pixelWidth) - 1:
+        
+        while True:
+            try:
+                newMatrix[x+count][matrixIndex] = fringeFile[i+ count][j]
+                count+=1
+                if not count < pixelWidth: break
+            except IndexError:
+                print(i,j,matrixIndex, count,x)
+            
+        i+=1
+        j+=1
+        x=0
+        count = 0
+        matrixIndex += 1
+        if not i< (fringeFile.shape[0] - pixelWidth - 1): break
+
+
+    return newMatrix
+
+
 def viewPlots(fringeData):     
 
     figNo = 1
@@ -23,18 +55,18 @@ def viewPlots(fringeData):
         n = len(xValues)                          #the number of data
         mean = sum(xValues*array)/n                   #note this correction
         sigma = sum(array*(xValues-mean)**2)/n   
-        popt,pcov = optimize.curve_fit(gaus,xValues,array,p0=[1,46,6])
-        if figNo == 1: 
-            peaks = signal.find_peaks(array,height=25)
-            print("length:", len(peaks[0]) )
-            print(peaks)
+        # popt,pcov = optimize.curve_fit(gaus,xValues,array,p0=[1,46,6])
+        # if figNo == 1: 
+            # peaks = signal.find_peaks(array,height=25)
+            # print("length:", len(peaks[0]) )
+            # print(peaks)
 
 
         axis.set_yticks(np.arange(0, 300, 25))
         axis.plot(xValues, array, label='data')
         axis.grid(linewidth=0.5)
 
-        axis.plot(xValues, gaus(xValues,*popt),'r',  label='fit')
+        # axis.plot(xValues, gaus(xValues,*popt),'r',  label='fit')
         plt.legend()
         
         figNo += 1
@@ -51,11 +83,46 @@ def fourFringes(fringeData, currentRun, writeCSV = True):
         
 
         array = item
+        # widths = np.full((1, len(array)), 20)
+        # peaks = signal.find_peaks_cwt(array, widths)
+        # peaks = signal.find_peaks(array, height=20, distance = 30)
+        peaks, peakH = signal.find_peaks(array, height=20, distance = 10)
 
-        peaks = signal.find_peaks(array,height=25)
-        lastPeakIndex = peaks[0][16]
+        peakHeights = peakH['peak_heights']
+        peakProminence = signal.peak_prominences(array, peaks)[0]
+        peakProminenceMean = np.mean(peakProminence)
+        peakProminenceStd = np.std(peakProminence)
+
+        newPeaks = peaks
+        index = 0
+        while True:
+            if index < len(newPeaks):
+                if peakProminence[index] < 10 and peakHeights[index] < 40: #abs((peakProminenceMean - peakProminenceStd))) < 0
+                    print(index)
+                    newPeaks = np.delete(newPeaks, index)
+                    peakProminence = np.delete(peakProminence, index)
+                    peakHeights = np.delete(peakHeights, index)
+                else: 
+                    index  += 1
+            else: break
+ 
+                
+
+        # print(peaks[0])
+ 
+
+
+
+
+        print("{0}\n\n{1}\n\n{2}\n{3} {4}".format(key, newPeaks, peakProminence, peakProminenceMean, peakProminenceStd))
+  
+
+
+        lastPeakIndex = newPeaks[16]
         newArray = array[:lastPeakIndex]
-
+        fourRingPeaks = newPeaks[:17]
+        
+        print("\n fourRingPeaks {0} \n\n peaks Again {1}".format(fourRingPeaks, newPeaks))
         fringeData[key] = newArray
         xValues = np.linspace(0, len(newArray)-1, len(newArray))
 
@@ -66,7 +133,7 @@ def fourFringes(fringeData, currentRun, writeCSV = True):
 
 
 
-        np.save("../Logs/Data/{0}/{1}/peaks".format(currentRun, key), peaks[0])
+        np.save("../Logs/Data/{0}/{1}/peaks".format(currentRun, key), newPeaks)
         np.save("../Logs/Data/{0}/{1}/xValues".format(currentRun, key), xValues)
         np.save("../Logs/Data/{0}/{1}/yValues".format(currentRun, key), newArray)
 
@@ -86,7 +153,7 @@ def fourFringes(fringeData, currentRun, writeCSV = True):
 if __name__ == "__main__":
 
     logFile = open("../Logs/ZeemanLog.log", 'w')
-    # sys.stdout = logFile
+    sys.stdout = logFile
 
     currentRun = "Fringes_3"
     fringesFolder = r"D:\OneDrive - Carleton University\School\Courses Y4\Winter\PHYS 4007\Zeeman Effect\Data\{0}".format(currentRun)
@@ -98,12 +165,14 @@ if __name__ == "__main__":
 
             # print(filename)
             fringeFile = cv2.imread("{0}{1}{2}".format(fringesFolder,os.sep, filename))
-            centerFringeMatrix = fringeFile[725:735, :]
+            centerFringeMatrix = fringeFile[725:735,:]
+            # centerFringeMatrix = np.matrix.transpose(fringeFile[:,850:900])
+            # centerFringeMatrix = diagonalCut(fringeFile,100)
             centerAverageArray = centerFringeMatrix.mean(axis=(2,0))
 
             fringeData[os.path.splitext(filename)[0]] = centerAverageArray
             # print(centerAverageArray, centerAverageArray.shape)
-            # cv2.imwrite("../Logs/test.jpg", centerFringeMatrix)
+            cv2.imwrite("../Logs/test.jpg", centerFringeMatrix)
             # print(fringeFile.shape)
             # sys.exit()
             # fringeData = fringeFile[]

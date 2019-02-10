@@ -1,0 +1,1624 @@
+
+
+ 48p2 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 52.0367
+Center1 = 42.1467
+Standard Deviation = 3.5095
+Center1 Uncertainty = 8.534132e-02
+
+Amplitude2 = 67.5899
+Center2 = 74.274
+Standard Deviation = 3.3415
+Center2 Uncertainty = 1.458758e+00
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 107.4987
+Center1 = 144.4618
+Standard Deviation = 4.0888
+Center1 Uncertainty = 9.975202e-02
+
+Amplitude2 = 130.2664
+Center2 = 183.7933
+Standard Deviation = 4.1163
+Center2 Uncertainty = 2.743061e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 103.1208
+Center1 = 272.772
+Standard Deviation = 4.6644
+Center1 Uncertainty = 1.017080e-01
+
+Amplitude2 = 114.2336
+Center2 = 325.5639
+Standard Deviation = 5.4575
+Center2 Uncertainty = 1.994282e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 111.9354
+Center1 = 452.8344
+Standard Deviation = 7.5148
+Center1 Uncertainty = 1.001191e-01
+
+Amplitude2 = 119.0235
+Center2 = 539.2274
+Standard Deviation = 8.6729
+Center2 Uncertainty = 1.202197e+00
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 93.412
+Center1 = 1208.408
+Standard Deviation = 9.895
+Center1 Uncertainty = 1.118682e-01
+
+Amplitude2 = 123.5595
+Center2 = 1291.0787
+Standard Deviation = 8.8539
+Center2 Uncertainty = 1.278906e+00
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 142.0658
+Center1 = 1414.5277
+Standard Deviation = 7.8355
+Center1 Uncertainty = 3.589549e-01
+
+Amplitude2 = 150.0052
+Center2 = 1464.3635
+Standard Deviation = 7.027
+Center2 Uncertainty = 6.284351e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 158.7433
+Center1 = 1550.9238
+Standard Deviation = 5.9377
+Center1 Uncertainty = 2.535171e-01
+
+Amplitude2 = 163.9363
+Center2 = 1588.4699
+Standard Deviation = 5.118
+Center2 Uncertainty = 6.529116e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 150.5161
+Center1 = 1655.9792
+Standard Deviation = 4.6729
+Center1 Uncertainty = 1.953955e-01
+
+Amplitude2 = 171.8753
+Center2 = 1685.2998
+Standard Deviation = 4.234
+Center2 Uncertainty = 6.538706e+00
+
+
+ 48p7 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 41.6337
+Center1 = 43.2134
+Standard Deviation = 3.1468
+Center1 Uncertainty = 7.517640e-02
+
+Amplitude2 = 68.965
+Center2 = 73.1744
+Standard Deviation = 3.1736
+Center2 Uncertainty = 1.420795e+00
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 100.0209
+Center1 = 145.95
+Standard Deviation = 3.9891
+Center1 Uncertainty = 7.615230e-02
+
+Amplitude2 = 113.3312
+Center2 = 181.833
+Standard Deviation = 3.5574
+Center2 Uncertainty = 1.984059e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 94.0358
+Center1 = 274.4097
+Standard Deviation = 4.775
+Center1 Uncertainty = 8.879814e-02
+
+Amplitude2 = 115.5057
+Center2 = 322.7142
+Standard Deviation = 4.6471
+Center2 Uncertainty = 1.885638e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 110.7653
+Center1 = 454.9638
+Standard Deviation = 6.7193
+Center1 Uncertainty = 8.025177e-02
+
+Amplitude2 = 116.9694
+Center2 = 534.7746
+Standard Deviation = 7.646
+Center2 Uncertainty = 1.134170e+00
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 89.4659
+Center1 = 1212.1229
+Standard Deviation = 8.8801
+Center1 Uncertainty = 1.087787e-01
+
+Amplitude2 = 113.8979
+Center2 = 1288.5403
+Standard Deviation = 8.2939
+Center2 Uncertainty = 1.250265e+00
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 131.8997
+Center1 = 1416.9975
+Standard Deviation = 7.2964
+Center1 Uncertainty = 3.158331e-01
+
+Amplitude2 = 139.2879
+Center2 = 1463.0554
+Standard Deviation = 6.2843
+Center2 Uncertainty = 5.626225e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 157.4924
+Center1 = 1552.6478
+Standard Deviation = 5.0174
+Center1 Uncertainty = 1.454436e-01
+
+Amplitude2 = 145.7736
+Center2 = 1587.411
+Standard Deviation = 4.9807
+Center2 Uncertainty = 3.968249e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 135.9844
+Center1 = 1657.0459
+Standard Deviation = 4.5589
+Center1 Uncertainty = 1.981471e-01
+
+Amplitude2 = 162.1337
+Center2 = 1684.4601
+Standard Deviation = 4.0444
+Center2 Uncertainty = 6.479427e+00
+
+
+ 49p2 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 33.5991
+Center1 = 44.4843
+Standard Deviation = 3.3342
+Center1 Uncertainty = 8.874394e-02
+
+Amplitude2 = 56.4736
+Center2 = 72.5411
+Standard Deviation = 2.8673
+Center2 Uncertainty = 1.403728e+00
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 85.3815
+Center1 = 147.1292
+Standard Deviation = 3.9922
+Center1 Uncertainty = 7.632958e-02
+
+Amplitude2 = 119.027
+Center2 = 180.8882
+Standard Deviation = 3.4896
+Center2 Uncertainty = 2.108023e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 82.147
+Center1 = 276.2138
+Standard Deviation = 4.5186
+Center1 Uncertainty = 6.139836e-02
+
+Amplitude2 = 105.2457
+Center2 = 321.4978
+Standard Deviation = 4.4677
+Center2 Uncertainty = 1.245519e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 106.2017
+Center1 = 457.2496
+Standard Deviation = 6.5546
+Center1 Uncertainty = 7.696265e-02
+
+Amplitude2 = 106.5221
+Center2 = 531.6191
+Standard Deviation = 7.5144
+Center2 Uncertainty = 1.008603e+00
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 88.6334
+Center1 = 1214.9185
+Standard Deviation = 8.022
+Center1 Uncertainty = 7.855035e-02
+
+Amplitude2 = 112.559
+Center2 = 1287.181
+Standard Deviation = 7.6099
+Center2 Uncertainty = 9.800087e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 129.9392
+Center1 = 1418.8812
+Standard Deviation = 6.4004
+Center1 Uncertainty = 2.969210e-01
+
+Amplitude2 = 123.9406
+Center2 = 1461.9988
+Standard Deviation = 6.5023
+Center2 Uncertainty = 5.179334e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 134.0914
+Center1 = 1554.1868
+Standard Deviation = 5.3067
+Center1 Uncertainty = 2.383625e-01
+
+Amplitude2 = 134.5608
+Center2 = 1586.3821
+Standard Deviation = 4.9349
+Center2 Uncertainty = 5.409017e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 125.4099
+Center1 = 1658.4666
+Standard Deviation = 4.5179
+Center1 Uncertainty = 2.285246e-01
+
+Amplitude2 = 154.7716
+Center2 = 1684.1141
+Standard Deviation = 3.8747
+Center2 Uncertainty = 7.321051e+00
+
+
+ 49p7 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 36.1171
+Center1 = 46.0017
+Standard Deviation = 3.3524
+Center1 Uncertainty = 1.166732e-01
+
+Amplitude2 = 40.2426
+Center2 = 71.5101
+Standard Deviation = 3.2539
+Center2 Uncertainty = 1.231130e+00
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 88.0891
+Center1 = 148.5953
+Standard Deviation = 3.7779
+Center1 Uncertainty = 7.832718e-02
+
+Amplitude2 = 104.0551
+Center2 = 179.8608
+Standard Deviation = 3.7359
+Center2 Uncertainty = 1.878813e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 83.1314
+Center1 = 277.5667
+Standard Deviation = 4.309
+Center1 Uncertainty = 7.582592e-02
+
+Amplitude2 = 98.0713
+Center2 = 319.5226
+Standard Deviation = 4.6018
+Center2 Uncertainty = 1.446231e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 104.0449
+Center1 = 459.6021
+Standard Deviation = 5.976
+Center1 Uncertainty = 6.921500e-02
+
+Amplitude2 = 101.3903
+Center2 = 528.209
+Standard Deviation = 6.8982
+Center2 Uncertainty = 9.713540e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 82.3685
+Center1 = 1218.6103
+Standard Deviation = 7.6116
+Center1 Uncertainty = 7.896959e-02
+
+Amplitude2 = 106.816
+Center2 = 1284.5996
+Standard Deviation = 7.2362
+Center2 Uncertainty = 9.843130e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 126.4344
+Center1 = 1420.6824
+Standard Deviation = 5.8828
+Center1 Uncertainty = 2.649168e-01
+
+Amplitude2 = 124.7842
+Center2 = 1460.5951
+Standard Deviation = 5.5991
+Center2 Uncertainty = 4.988251e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 136.3614
+Center1 = 1555.413
+Standard Deviation = 4.8206
+Center1 Uncertainty = 1.906980e-01
+
+Amplitude2 = 141.4038
+Center2 = 1585.2052
+Standard Deviation = 4.5906
+Center2 Uncertainty = 4.964267e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 131.3329
+Center1 = 1659.7162
+Standard Deviation = 3.9215
+Center1 Uncertainty = 2.500359e-01
+
+Amplitude2 = 128.3696
+Center2 = 1683.2238
+Standard Deviation = 4.3228
+Center2 Uncertainty = 6.907416e+00
+
+
+ 50p2 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 37.3371
+Center1 = 47.0953
+Standard Deviation = 2.9987
+Center1 Uncertainty = 1.306493e-01
+
+Amplitude2 = 39.6101
+Center2 = 70.624
+Standard Deviation = 3.4914
+Center2 Uncertainty = 1.385069e+00
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 84.826
+Center1 = 148.871
+Standard Deviation = 4.0039
+Center1 Uncertainty = 7.826003e-02
+
+Amplitude2 = 88.6644
+Center2 = 178.6688
+Standard Deviation = 3.8197
+Center2 Uncertainty = 1.536604e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 80.5609
+Center1 = 277.975
+Standard Deviation = 4.3624
+Center1 Uncertainty = 7.595096e-02
+
+Amplitude2 = 93.9445
+Center2 = 318.4261
+Standard Deviation = 4.4608
+Center2 Uncertainty = 1.400769e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 103.1762
+Center1 = 460.8331
+Standard Deviation = 6.0105
+Center1 Uncertainty = 6.905154e-02
+
+Amplitude2 = 104.6199
+Center2 = 526.1894
+Standard Deviation = 6.6268
+Center2 Uncertainty = 9.913120e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 75.6938
+Center1 = 1220.3411
+Standard Deviation = 7.6773
+Center1 Uncertainty = 6.713174e-02
+
+Amplitude2 = 103.8758
+Center2 = 1283.6424
+Standard Deviation = 7.1301
+Center2 Uncertainty = 8.162500e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 115.7619
+Center1 = 1421.7027
+Standard Deviation = 6.3997
+Center1 Uncertainty = 2.957262e-01
+
+Amplitude2 = 116.6426
+Center2 = 1459.7607
+Standard Deviation = 5.9304
+Center2 Uncertainty = 4.849059e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 113.735
+Center1 = 1556.545
+Standard Deviation = 5.1218
+Center1 Uncertainty = 1.812090e-01
+
+Amplitude2 = 131.5137
+Center2 = 1584.7556
+Standard Deviation = 4.6689
+Center2 Uncertainty = 4.220624e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 122.1194
+Center1 = 1660.3411
+Standard Deviation = 3.8454
+Center1 Uncertainty = 1.975583e-01
+
+Amplitude2 = 110.6964
+Center2 = 1682.366
+Standard Deviation = 4.9757
+Center2 Uncertainty = 4.775076e+00
+
+
+ 50p7 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 33.6389
+Center1 = 47.5458
+Standard Deviation = 2.655
+Center1 Uncertainty = 1.033636e-01
+
+Amplitude2 = 38.4382
+Center2 = 68.8323
+Standard Deviation = 2.8991
+Center2 Uncertainty = 1.240210e+00
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 77.3336
+Center1 = 150.0117
+Standard Deviation = 3.4832
+Center1 Uncertainty = 6.377478e-02
+
+Amplitude2 = 85.695
+Center2 = 177.4959
+Standard Deviation = 3.9068
+Center2 Uncertainty = 1.283018e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 79.4447
+Center1 = 279.0533
+Standard Deviation = 3.9488
+Center1 Uncertainty = 7.325688e-02
+
+Amplitude2 = 86.4889
+Center2 = 316.5448
+Standard Deviation = 4.3602
+Center2 Uncertainty = 1.322368e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 90.2306
+Center1 = 462.0984
+Standard Deviation = 5.8539
+Center1 Uncertainty = 6.106998e-02
+
+Amplitude2 = 99.6848
+Center2 = 523.9494
+Standard Deviation = 6.4268
+Center2 Uncertainty = 8.595390e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 72.6395
+Center1 = 1223.0534
+Standard Deviation = 6.9457
+Center1 Uncertainty = 9.514617e-02
+
+Amplitude2 = 89.6562
+Center2 = 1282.0573
+Standard Deviation = 7.1476
+Center2 Uncertainty = 1.048485e+00
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 109.7392
+Center1 = 1422.6646
+Standard Deviation = 5.4733
+Center1 Uncertainty = 2.808767e-01
+
+Amplitude2 = 104.6924
+Center2 = 1458.7561
+Standard Deviation = 5.8194
+Center2 Uncertainty = 4.729831e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 126.2837
+Center1 = 1557.531
+Standard Deviation = 4.508
+Center1 Uncertainty = 2.011018e-01
+
+Amplitude2 = 131.7842
+Center2 = 1583.7922
+Standard Deviation = 4.2655
+Center2 Uncertainty = 5.234027e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 127.2083
+Center1 = 1660.8824
+Standard Deviation = 3.3789
+Center1 Uncertainty = 1.645515e-01
+
+Amplitude2 = 121.4003
+Center2 = 1681.3493
+Standard Deviation = 4.3519
+Center2 Uncertainty = 4.727502e+00
+
+
+ 51p2 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 35.5234
+Center1 = 48.0002
+Standard Deviation = 2.7851
+Center1 Uncertainty = 6.295364e-02
+
+Amplitude2 = 40.9114
+Center2 = 67.6504
+Standard Deviation = 2.7027
+Center2 Uncertainty = 8.129682e-01
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 77.5369
+Center1 = 150.6193
+Standard Deviation = 3.598
+Center1 Uncertainty = 8.169975e-02
+
+Amplitude2 = 82.3166
+Center2 = 176.2086
+Standard Deviation = 3.4061
+Center2 Uncertainty = 1.663731e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 70.5103
+Center1 = 279.9175
+Standard Deviation = 4.2658
+Center1 Uncertainty = 1.127015e-01
+
+Amplitude2 = 86.6996
+Center2 = 315.7145
+Standard Deviation = 4.3794
+Center2 Uncertainty = 1.957794e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 89.5563
+Center1 = 463.4827
+Standard Deviation = 5.8796
+Center1 Uncertainty = 7.315864e-02
+
+Amplitude2 = 96.0661
+Center2 = 521.8751
+Standard Deviation = 6.3288
+Center2 Uncertainty = 9.977741e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 71.8612
+Center1 = 1225.1717
+Standard Deviation = 6.9736
+Center1 Uncertainty = 8.803938e-02
+
+Amplitude2 = 83.402
+Center2 = 1280.9215
+Standard Deviation = 6.6669
+Center2 Uncertainty = 9.325972e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 103.5188
+Center1 = 1424.3088
+Standard Deviation = 5.8205
+Center1 Uncertainty = 2.934229e-01
+
+Amplitude2 = 97.9311
+Center2 = 1458.0325
+Standard Deviation = 5.9069
+Center2 Uncertainty = 4.486415e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 119.9197
+Center1 = 1558.3756
+Standard Deviation = 4.3881
+Center1 Uncertainty = 2.515061e-01
+
+Amplitude2 = 112.3927
+Center2 = 1583.1414
+Standard Deviation = 4.6255
+Center2 Uncertainty = 5.798005e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 127.2526
+Center1 = 1661.3994
+Standard Deviation = 3.2308
+Center1 Uncertainty = 1.803273e-01
+
+Amplitude2 = 108.3408
+Center2 = 1680.682
+Standard Deviation = 4.5798
+Center2 Uncertainty = 5.163391e+00
+
+
+ 51p7 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 34.2879
+Center1 = 48.1723
+Standard Deviation = 2.3262
+Center1 Uncertainty = 4.500694e-02
+
+Amplitude2 = 35.6772
+Center2 = 67.4908
+Standard Deviation = 2.7005
+Center2 Uncertainty = 5.548330e-01
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 69.3053
+Center1 = 151.1155
+Standard Deviation = 3.7095
+Center1 Uncertainty = 7.546574e-02
+
+Amplitude2 = 78.4393
+Center2 = 175.6567
+Standard Deviation = 3.5935
+Center2 Uncertainty = 1.404091e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 73.2635
+Center1 = 280.6769
+Standard Deviation = 3.7967
+Center1 Uncertainty = 1.249605e-01
+
+Amplitude2 = 72.3133
+Center2 = 314.7909
+Standard Deviation = 4.5429
+Center2 Uncertainty = 1.909080e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 83.0725
+Center1 = 464.5255
+Standard Deviation = 5.7801
+Center1 Uncertainty = 7.489905e-02
+
+Amplitude2 = 83.8295
+Center2 = 519.7164
+Standard Deviation = 6.4489
+Center2 Uncertainty = 8.825778e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 63.2388
+Center1 = 1226.4308
+Standard Deviation = 6.6467
+Center1 Uncertainty = 6.621114e-02
+
+Amplitude2 = 79.4319
+Center2 = 1280.1488
+Standard Deviation = 6.5155
+Center2 Uncertainty = 6.921184e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 103.8163
+Center1 = 1425.0858
+Standard Deviation = 5.544
+Center1 Uncertainty = 2.711452e-01
+
+Amplitude2 = 92.6044
+Center2 = 1457.241
+Standard Deviation = 5.9478
+Center2 Uncertainty = 4.245528e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 98.2126
+Center1 = 1559.4659
+Standard Deviation = 5.1735
+Center1 Uncertainty = 2.556745e-01
+
+Amplitude2 = 116.0684
+Center2 = 1582.736
+Standard Deviation = 4.0943
+Center2 Uncertainty = 5.582854e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 103.33
+Center1 = 1662.0135
+Standard Deviation = 3.8767
+Center1 Uncertainty = 2.020096e-01
+
+Amplitude2 = 99.8078
+Center2 = 1679.9628
+Standard Deviation = 4.4653
+Center2 Uncertainty = 4.302143e+00
+
+
+ 52p2 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 26.8501
+Center1 = 48.5316
+Standard Deviation = 2.3489
+Center1 Uncertainty = 4.109607e-02
+
+Amplitude2 = 34.9848
+Center2 = 66.6437
+Standard Deviation = 2.3741
+Center2 Uncertainty = 5.272657e-01
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 62.1449
+Center1 = 151.3953
+Standard Deviation = 3.6105
+Center1 Uncertainty = 9.022705e-02
+
+Amplitude2 = 77.4332
+Center2 = 175.0129
+Standard Deviation = 3.2744
+Center2 Uncertainty = 1.759736e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 64.5314
+Center1 = 281.4482
+Standard Deviation = 3.9771
+Center1 Uncertainty = 1.215029e-01
+
+Amplitude2 = 68.501
+Center2 = 313.179
+Standard Deviation = 4.6129
+Center2 Uncertainty = 1.682839e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 75.9066
+Center1 = 466.1921
+Standard Deviation = 5.9119
+Center1 Uncertainty = 7.791828e-02
+
+Amplitude2 = 85.4395
+Center2 = 518.0999
+Standard Deviation = 6.3541
+Center2 Uncertainty = 9.406768e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 61.3463
+Center1 = 1227.912
+Standard Deviation = 6.4152
+Center1 Uncertainty = 7.472219e-02
+
+Amplitude2 = 78.7594
+Center2 = 1278.8387
+Standard Deviation = 6.4385
+Center2 Uncertainty = 7.930258e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 89.8999
+Center1 = 1426.2765
+Standard Deviation = 5.6789
+Center1 Uncertainty = 2.592115e-01
+
+Amplitude2 = 84.8674
+Center2 = 1456.1578
+Standard Deviation = 6.1076
+Center2 Uncertainty = 3.234662e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 94.1292
+Center1 = 1560.1961
+Standard Deviation = 4.9052
+Center1 Uncertainty = 2.484341e-01
+
+Amplitude2 = 108.8954
+Center2 = 1581.9693
+Standard Deviation = 4.4039
+Center2 Uncertainty = 5.032091e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 90.2568
+Center1 = 1663.0687
+Standard Deviation = 4.0576
+Center1 Uncertainty = 2.374963e-01
+
+Amplitude2 = 110.5553
+Center2 = 1679.4584
+Standard Deviation = 3.9023
+Center2 Uncertainty = 5.601332e+00
+
+
+ 52p9 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 27.7258
+Center1 = 49.8059
+Standard Deviation = 2.7213
+Center1 Uncertainty = 5.797730e-02
+
+Amplitude2 = 38.0524
+Center2 = 66.0907
+Standard Deviation = 2.8116
+Center2 Uncertainty = 6.907395e-01
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 64.6
+Center1 = 152.1131
+Standard Deviation = 3.5667
+Center1 Uncertainty = 1.515823e-01
+
+Amplitude2 = 74.4885
+Center2 = 173.9696
+Standard Deviation = 3.7068
+Center2 Uncertainty = 2.689313e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 62.1844
+Center1 = 282.7042
+Standard Deviation = 4.5103
+Center1 Uncertainty = 1.043813e-01
+
+Amplitude2 = 70.3614
+Center2 = 312.4998
+Standard Deviation = 4.5313
+Center2 Uncertainty = 1.406925e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 77.2298
+Center1 = 466.947
+Standard Deviation = 5.7266
+Center1 Uncertainty = 7.275255e-02
+
+Amplitude2 = 84.007
+Center2 = 515.9361
+Standard Deviation = 6.4158
+Center2 Uncertainty = 8.732089e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 61.1548
+Center1 = 1230.4586
+Standard Deviation = 6.5318
+Center1 Uncertainty = 8.517663e-02
+
+Amplitude2 = 72.3901
+Center2 = 1278.1297
+Standard Deviation = 6.8136
+Center2 Uncertainty = 8.004358e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 84.4397
+Center1 = 1427.685
+Standard Deviation = 6.3145
+Center1 Uncertainty = 2.443195e-01
+
+Amplitude2 = 91.7814
+Center2 = 1455.5782
+Standard Deviation = 5.5116
+Center2 Uncertainty = 3.287094e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 93.1904
+Center1 = 1560.9294
+Standard Deviation = 4.7497
+Center1 Uncertainty = 2.873874e-01
+
+Amplitude2 = 97.6984
+Center2 = 1581.9675
+Standard Deviation = 4.6053
+Center2 Uncertainty = 5.177294e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 96.4602
+Center1 = 1664.0743
+Standard Deviation = 4.1081
+Center1 Uncertainty = 1.588956e-01
+
+Amplitude2 = 119.6775
+Center2 = 1680.3465
+Standard Deviation = 2.5435
+Center2 Uncertainty = 5.089804e+00
+
+
+ 53p2 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 28.4597
+Center1 = 49.5546
+Standard Deviation = 2.5555
+Center1 Uncertainty = 8.166372e-02
+
+Amplitude2 = 32.1064
+Center2 = 65.4839
+Standard Deviation = 2.8776
+Center2 Uncertainty = 8.373566e-01
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 59.5516
+Center1 = 152.6015
+Standard Deviation = 3.8905
+Center1 Uncertainty = 1.846211e-01
+
+Amplitude2 = 69.7417
+Center2 = 174.0426
+Standard Deviation = 3.621
+Center2 Uncertainty = 2.971032e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 56.0919
+Center1 = 283.3678
+Standard Deviation = 4.5328
+Center1 Uncertainty = 8.362347e-02
+
+Amplitude2 = 74.6758
+Center2 = 310.9645
+Standard Deviation = 4.2215
+Center2 Uncertainty = 1.236303e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 75.7093
+Center1 = 467.5576
+Standard Deviation = 5.4734
+Center1 Uncertainty = 8.092333e-02
+
+Amplitude2 = 81.0227
+Center2 = 515.1744
+Standard Deviation = 6.0997
+Center2 Uncertainty = 9.827162e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 64.3454
+Center1 = 1231.3639
+Standard Deviation = 6.3882
+Center1 Uncertainty = 7.701105e-02
+
+Amplitude2 = 70.0522
+Center2 = 1276.7735
+Standard Deviation = 6.5032
+Center2 Uncertainty = 7.248557e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 77.9782
+Center1 = 1428.402
+Standard Deviation = 5.9801
+Center1 Uncertainty = 2.121604e-01
+
+Amplitude2 = 94.1313
+Center2 = 1455.2355
+Standard Deviation = 4.9175
+Center2 Uncertainty = 3.187995e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 84.3138
+Center1 = 1561.6317
+Standard Deviation = 4.8642
+Center1 Uncertainty = 2.625329e-01
+
+Amplitude2 = 99.7792
+Center2 = 1581.4537
+Standard Deviation = 4.3559
+Center2 Uncertainty = 4.879606e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 85.1311
+Center1 = 1664.682
+Standard Deviation = 4.334
+Center1 Uncertainty = 1.221435e-01
+
+Amplitude2 = 113.2491
+Center2 = 1678.9958
+Standard Deviation = 3.5093
+Center2 Uncertainty = 2.808184e+00
+
+
+ 53p7 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 24.8516
+Center1 = 50.5673
+Standard Deviation = 2.8096
+Center1 Uncertainty = 7.225049e-02
+
+Amplitude2 = 35.8223
+Center2 = 65.7607
+Standard Deviation = 2.5324
+Center2 Uncertainty = 8.403429e-01
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 55.9461
+Center1 = 153.9095
+Standard Deviation = 4.6285
+Center1 Uncertainty = 2.252817e-01
+
+Amplitude2 = 63.0415
+Center2 = 172.63
+Standard Deviation = 4.323
+Center2 Uncertainty = 2.706803e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 65.3007
+Center1 = 283.7256
+Standard Deviation = 4.0337
+Center1 Uncertainty = 8.976324e-02
+
+Amplitude2 = 67.5534
+Center2 = 310.7458
+Standard Deviation = 4.5408
+Center2 Uncertainty = 1.186125e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 66.7328
+Center1 = 469.0308
+Standard Deviation = 6.0861
+Center1 Uncertainty = 8.412973e-02
+
+Amplitude2 = 79.9757
+Center2 = 513.7307
+Standard Deviation = 6.2069
+Center2 Uncertainty = 9.480493e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 56.187
+Center1 = 1232.8569
+Standard Deviation = 6.3423
+Center1 Uncertainty = 7.488066e-02
+
+Amplitude2 = 66.3896
+Center2 = 1275.9016
+Standard Deviation = 6.5639
+Center2 Uncertainty = 6.672615e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 74.9002
+Center1 = 1429.5796
+Standard Deviation = 5.6257
+Center1 Uncertainty = 1.876866e-01
+
+Amplitude2 = 87.2717
+Center2 = 1454.4382
+Standard Deviation = 5.4298
+Center2 Uncertainty = 2.555819e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 82.2392
+Center1 = 1562.7136
+Standard Deviation = 4.9669
+Center1 Uncertainty = 2.430861e-01
+
+Amplitude2 = 94.9849
+Center2 = 1581.047
+Standard Deviation = 4.7092
+Center2 Uncertainty = 3.888944e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 93.0992
+Center1 = 1665.4161
+Standard Deviation = 4.0943
+Center1 Uncertainty = 7.846337e-02
+
+Amplitude2 = 126.2458
+Center2 = 1678.7744
+Standard Deviation = 3.41
+Center2 Uncertainty = 2.042544e+00
+
+
+ 54p2 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 27.4627
+Center1 = 50.6204
+Standard Deviation = 3.28
+Center1 Uncertainty = 2.346557e-01
+
+Amplitude2 = 30.8879
+Center2 = 64.7618
+Standard Deviation = 3.4867
+Center2 Uncertainty = 1.826787e+00
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 56.6849
+Center1 = 154.0061
+Standard Deviation = 4.4839
+Center1 Uncertainty = 1.965268e-01
+
+Amplitude2 = 61.2014
+Center2 = 171.7648
+Standard Deviation = 4.4314
+Center2 Uncertainty = 2.262482e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 61.5096
+Center1 = 284.2246
+Standard Deviation = 4.4727
+Center1 Uncertainty = 8.963363e-02
+
+Amplitude2 = 69.0548
+Center2 = 309.6185
+Standard Deviation = 4.2761
+Center2 Uncertainty = 1.225746e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 71.3373
+Center1 = 470.0278
+Standard Deviation = 6.122
+Center1 Uncertainty = 8.482111e-02
+
+Amplitude2 = 75.4917
+Center2 = 512.3646
+Standard Deviation = 6.1101
+Center2 Uncertainty = 9.067017e-01
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 52.9615
+Center1 = 1234.9938
+Standard Deviation = 6.413
+Center1 Uncertainty = 8.375917e-02
+
+Amplitude2 = 68.0931
+Center2 = 1275.3262
+Standard Deviation = 6.0199
+Center2 Uncertainty = 7.949583e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 72.017
+Center1 = 1430.5366
+Standard Deviation = 6.3495
+Center1 Uncertainty = 2.660778e-01
+
+Amplitude2 = 80.4321
+Center2 = 1453.9181
+Standard Deviation = 5.4576
+Center2 Uncertainty = 3.041096e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 83.0767
+Center1 = 1563.56
+Standard Deviation = 4.7416
+Center1 Uncertainty = 2.310114e-01
+
+Amplitude2 = 82.6371
+Center2 = 1580.4495
+Standard Deviation = 4.7711
+Center2 Uncertainty = 3.064820e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 89.0455
+Center1 = 1666.3071
+Standard Deviation = 3.9257
+Center1 Uncertainty = 1.235556e-01
+
+Amplitude2 = 111.1597
+Center2 = 1678.7959
+Standard Deviation = 3.3371
+Center2 Uncertainty = 2.790521e+00
+
+
+ 54p7 
+
+
+
+Ring1 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 25.7575
+Center1 = 50.2582
+Standard Deviation = 2.6135
+Center1 Uncertainty = 3.174917e-01
+
+Amplitude2 = 25.4298
+Center2 = 63.1133
+Standard Deviation = 4.2852
+Center2 Uncertainty = 1.957122e+00
+
+
+Ring2 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 53.6591
+Center1 = 154.2081
+Standard Deviation = 4.5525
+Center1 Uncertainty = 2.025078e-01
+
+Amplitude2 = 60.3698
+Center2 = 170.9912
+Standard Deviation = 4.5997
+Center2 Uncertainty = 2.115368e+00
+
+
+Ring3 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 57.0845
+Center1 = 284.7201
+Standard Deviation = 4.2659
+Center1 Uncertainty = 1.201352e-01
+
+Amplitude2 = 68.1551
+Center2 = 308.8887
+Standard Deviation = 4.4638
+Center2 Uncertainty = 1.625060e+00
+
+
+Ring4 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 70.6683
+Center1 = 470.9526
+Standard Deviation = 5.8435
+Center1 Uncertainty = 1.013531e-01
+
+Amplitude2 = 73.2935
+Center2 = 510.7942
+Standard Deviation = 6.3612
+Center2 Uncertainty = 1.017387e+00
+
+
+Ring5 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 52.455
+Center1 = 1236.4623
+Standard Deviation = 6.7721
+Center1 Uncertainty = 1.070200e-01
+
+Amplitude2 = 59.5275
+Center2 = 1274.1226
+Standard Deviation = 6.2852
+Center2 Uncertainty = 8.456766e-01
+
+
+Ring6 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 69.4254
+Center1 = 1431.4826
+Standard Deviation = 5.5464
+Center1 Uncertainty = 2.262177e-01
+
+Amplitude2 = 73.0245
+Center2 = 1453.9601
+Standard Deviation = 5.5984
+Center2 Uncertainty = 2.498634e+00
+
+
+Ring7 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 74.1989
+Center1 = 1564.3625
+Standard Deviation = 4.6296
+Center1 Uncertainty = 1.929028e-01
+
+Amplitude2 = 80.9903
+Center2 = 1580.2322
+Standard Deviation = 4.9016
+Center2 Uncertainty = 2.263198e+00
+
+
+Ring8 
+Equation is f(x) = a1*exp(-((x-b1)/c1)^2) + a2*exp(-((x-b2)/c2)^2)
+
+Amplitude1 = 85.0912
+Center1 = 1666.4758
+Standard Deviation = 3.8557
+Center1 Uncertainty = 7.513726e-02
+
+Amplitude2 = 115.2814
+Center2 = 1678.6764
+Standard Deviation = 3.4322
+Center2 Uncertainty = 1.670114e+00
