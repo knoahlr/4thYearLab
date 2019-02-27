@@ -99,8 +99,9 @@ venv.bak/
 
 # mkdocs documentation
 /site
-/logs/mainLog.log
-/logs
+4thYearLab/logs/mainLog.log
+4thYearLab/logs/
+.vscode
 /__pycache__
 utils/__pycache__
 src/main/__pycache__
