@@ -101,6 +101,7 @@ venv.bak/
 /site
 4thYearLab/logs/mainLog.log
 4thYearLab/logs/
+tably/
 .vscode
 /__pycache__
 utils/__pycache__
